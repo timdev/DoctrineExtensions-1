@@ -1,9 +1,9 @@
 {
-    "name": "beberlei/DoctrineExtensions",
+    "name": "timdev/DoctrineExtensions-1",
     "require": {
         "doctrine/orm": "*"
     },
     "autoload": {
-        "psr-0": { "beberlei": "lib/" }
+        "psr-0": { "timdev": "lib/" }
     }
 }
